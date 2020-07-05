@@ -45,7 +45,8 @@
             "date": "05/04/2020",
             "category": ["business", "finance"],
             "cardText": "As independent information professionals (IIPs), we work alongside our clients to provide top-notch training and consultative services. We help them better understand and implement information strategies to competitively grow their businesses. We offer custom training and coaching to help clients change and grow for tomorrow's challenges.  Whether focusing on how to implement an information governance program, assess the competitive market, or learn to avoid internet fraud, our members help clients better navigate the complexities of business.",
-            "image": "https://overtalent.it/wp-content/uploads/group2.jpg"
+            "image": "https://overtalent.it/wp-content/uploads/group2.jpg",
+            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts."
         },
         {
             "id": 6,
@@ -54,7 +55,8 @@
             "date": "06/06/2020",
             "category": ["tech"],
             "cardText": "Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
-            "image": "https://cmo.marketo.com/content/uploads/sites/5/2018/02/Looking-To-the-Future.jpg"
+            "image": "https://cmo.marketo.com/content/uploads/sites/5/2018/02/Looking-To-the-Future.jpg",
+            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts. "
         }
     ]
 }
