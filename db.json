@@ -57,26 +57,6 @@
             "cardText": "Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
             "image": "https://cmo.marketo.com/content/uploads/sites/5/2018/02/Looking-To-the-Future.jpg",
             "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts. "
-        },
-        {
-            "id": 7,
-            "author": "Moaz",
-            "title": "natural for test",
-            "date": "09/07/2020",
-            "category": ["business", "markting", "finance"],
-            "cardText": "Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
-            "image": "https://lp-cms-production.imgix.net/2019-06/3cb45f6e59190e8213ce0a35394d0e11-nice.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4",
-            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts. "
-        },
-        {
-            "id": 8,
-            "author": "Abu kamal",
-            "title": "natural for test",
-            "date": "09/07/2020",
-            "category": ["business", "tech", "immovables"],
-            "cardText": "Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.",
-            "image": "https://lp-cms-production.imgix.net/2019-06/3cb45f6e59190e8213ce0a35394d0e11-nice.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4",
-            "famuosSaying": "Every day, businesses encourage their employees to be more efficient and productive. There are dozens of ways to make this happen, from implementing innovative technology to bringing in productivity experts. "
         }
     ]
 }
